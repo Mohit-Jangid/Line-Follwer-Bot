@@ -6,9 +6,9 @@ int Input_A2 = 7; //motor a = -
 int Input_B1 = 8; //motor b = -
 int Input_B2 = 9; //motor b = +
 int Enable_B = 10;  //speed motor b
-int Right_Sensor = A0; //sincer R
-int Middle_Sensor = A1; //sincer S
-int Left_Sensor = A2; //sincer L
+int Right_Sensor = A0; //sensor Right
+int Middle_Sensor = A1; //sensor Middle
+int Left_Sensor = A2; //sensorr Left
 
 void setup()
 {
